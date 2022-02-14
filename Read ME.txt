@@ -1,26 +1,9 @@
-The third challenge is about the re-creation of codedamn.com dashboard.
+Won the Week-3 Challenge of the codedamn.
 
-Users have to use their own ideas to design a creative dashboard for our website codedamn.com.
+#Challenge: Re-creation of codedamn.com dashboard
 
-Take inspiration from the current design if you want
-Design a dashboard interface like codedamn - resuming your course, seeing available courses, weekly challenge widget, etc.
-Use your imagination for more widgets - graphs, etc.
-
-
-
-
-
-Things to DO in my current project:
-1) Add tooltip to icons
-2) Add theme dark and day
-3) Search bar border color change on focus
-4) Project counter for achivements : https://codepen.io/jakubtursky/pen/vEwZop
-5) Hover effect on button of Weekly challenge : https://codepen.io/abadu/pen/YxJgoe / https://codepen.io/madshaakansson/pen/
-6) Custom Scroll Bar
-
-resume your course : show progress bar below course (Ex: udemy)
-seeing available courses: 
-weekly challenge 
-
-Bugs:
-1) on hover .icon-inner needs to work
+Tips: 
+a) Users have to use their own ideas to design a creative dashboard for our website codedamn.com
+b) Take inspiration from the current design if you want
+c) Design a dashboard interface like codedamn - resuming your course, seeing available courses, weekly challenge widget, etc.
+d) Use your imagination for more widgets - graphs, etc.
